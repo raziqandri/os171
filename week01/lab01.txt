@@ -20,3 +20,4 @@ drwxr-xr-x  2 abdul.raziq51 StafCS 4096 Feb 13 13:52 week09
 drwxr-xr-x  2 abdul.raziq51 StafCS 4096 Feb 13 13:52 week10
 drwxr-xr-x  2 abdul.raziq51 StafCS 4096 Feb 13 13:53 xtra
 /home/fasilkom/mahasiswa/a/abdul.raziq51/os171/week01
+Today is 13 Feb 2017 at 14:55:00

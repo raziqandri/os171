@@ -1,0 +1,9 @@
+w03-170302-13-Ps-About: Doing lab3
+w03-170228-10-LR-About: Booting Process, From: Lecturer
+w03-170228-10-LR-About: Booting Process, From: Lecturer
+w03-170228-11-LR-About: Booting Process, From: Lecturer
+w03-170302-10-LR-About: Booting Process, From: Lecturer
+w03-170302-10-LR-About: Booting Process, From: Lecturer
+w03-170302-11-LR-About: Memory, From: Lecturer
+w03-170302-14-DS-About: Discussing Booting Process
+w03-170302-14-PS-About: Doing lab 3

@@ -1,0 +1,9 @@
+w04-170307-10-LR-About: Memory, From: Lecturer
+w04-170307-10-LR-About: Memory, From: Lecturer
+w04-170307-11-LR-About: Memory, From: Lecturer
+w04-170308-15-PR-About: Doing Lab Session
+w04-170309-10-LR-About: Open Close I/O Process, From: Lecturer
+w04-170309-10-LR-About: Open Close I/O Process, From: Lecturer
+w04-170309-11-LR-About: Open Close I/O Process, From: Lecturer
+w04-170309-14-PR-About: Doing Lab Session
+w04-170309-14-PR-About: Doing Lab Session

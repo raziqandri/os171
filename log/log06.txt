@@ -1,0 +1,10 @@
+w06-170411-10-LR-About: Threading, From: Lecturer
+w06-170411-10-LR-About: Threading, From: Lecturer
+w06-170414-11-LR-About: Threading, From: Lecturer
+w06-170412-12-DS-About: Fork
+w06-170412-17-PR-About: Doing Lab Session
+w06-170412-17-PR-About: Doing Lab Session
+w06-170413-10-LR-About: Synchronize, From: Lecturer
+w06-170413-10-LR-About: Synchronize, From: Lecturer
+w06-170413-11-LR-About: Synchronize, From: Lecturer
+w06-170413-14-PR-About: Doing Lab Session
